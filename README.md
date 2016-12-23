@@ -1,2 +1,5 @@
 # constraint-programming-hs
-Tinkering with a constraint programming implementation by David Overton : https://overtond.blogspot.it/2008/07/pre.html 
+
+[![Build Status](https://travis-ci.org/githubuser/constraint-programming-hs.png)](https://travis-ci.org/githubuser/constraint-programming-hs)
+
+TODO Description.
